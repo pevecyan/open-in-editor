@@ -162,6 +162,9 @@ Options:
   -v, --version            Output version
 ```
 
+## Install
+Clone to any folder and use npm link inside of it
+
 ## Related projects
 
 - [express-open-in-editor](https://github.com/lahmatiy/express-open-in-editor) – `Express` extension to open files from browser.
